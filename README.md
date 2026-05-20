@@ -4,10 +4,25 @@ Morphe patches untuk aplikasi absensi **Siaga Tani** (`id.go.pertanian.epersonal
 
 ## Patches
 
-| Patch | Deskripsi |
-|-------|-----------|
-| Disable mock location detection | Bypass deteksi fake GPS agar bisa menggunakan mock location tanpa root |
-| Disable license check | Bypass verifikasi lisensi PairIP agar app tetap berjalan setelah di-patch |
+<!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/EryrizalH/Morphe-patch-Siagatani/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+<details open>
+<summary>📦 Siaga Tani&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.0.6 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable license check](#disable-license-check) | Bypasses PairIP license verification so the app works after re-signing. |  |
+| [Disable mock location detection](#disable-mock-location-detection) | Bypasses mock location detection so fake GPS works without root. |  |
+
+</details>
+
+<!-- PATCHES_END -->
 
 ## Cara Pakai
 
