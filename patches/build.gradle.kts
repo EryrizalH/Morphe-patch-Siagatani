@@ -1,13 +1,13 @@
-group = "app.template"
+group = "app.siagatani"
 
 patches {
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
-        contact = "na"
-        website = "na"
+        name = "Siaga Tani Patches"
+        description = "Morphe patches for Siaga Tani attendance app"
+        source = "git@github.com:EryrizalH/Morphe-patch-Siagatani.git"
+        author = "EryrizalH"
+        contact = "https://github.com/EryrizalH"
+        website = "https://github.com/EryrizalH/Morphe-patch-Siagatani"
         license = "GPLv3"
     }
 }
