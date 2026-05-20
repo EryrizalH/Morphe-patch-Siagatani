@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/EryrizalH/Morphe-patch-Siagatani/compare/v1.0.1...v1.0.2) (2026-05-20)
+
+
+### Bug Fixes
+
+* update Siaga Tani installer fingerprint ([76e1607](https://github.com/EryrizalH/Morphe-patch-Siagatani/commit/76e1607948cb6521e7304ba4323faa252a2a582b))
+
 ## [1.0.1](https://github.com/EryrizalH/Morphe-patch-Siagatani/compare/v1.0.0...v1.0.1) (2026-05-20)
 
 
