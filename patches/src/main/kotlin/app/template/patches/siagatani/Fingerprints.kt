@@ -48,7 +48,7 @@ object LocalInstallerCheckFingerprint : Fingerprint(
     returnType = "Z",
     parameters = listOf(),
     filters = listOf(
-        string("Local install check"),
+        string("Local install check failed due to wrong installer."),
     ),
     custom = { _, classDef ->
         classDef.type == "Lcom/pairip/licensecheck/LicenseClient;"

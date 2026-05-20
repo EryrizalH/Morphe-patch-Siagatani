@@ -129,5 +129,5 @@ node_modules/
 .idea/
 local.properties
 siaga-tani-extracted/
-siaga-tani-decompiled/
+siaga-tani-apktool/
 SIAGA TANI_1.0.6_APKPure.xapk
