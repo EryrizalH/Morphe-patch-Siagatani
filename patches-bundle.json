@@ -1,7 +1,7 @@
 {
-  "created_at": "",
-  "description": "",
-  "download_url": "",
+  "created_at": "2026-05-20T18:00:36",
+  "description": "Initial Siaga Tani patch bundle for Morphe. Includes disable license check and disable mock location detection patches.",
+  "download_url": "https://github.com/EryrizalH/Morphe-patch-Siagatani/releases/download/v1.0.0/patches-1.0.0.mpp",
   "signature_download_url": "",
-  "version": ""
+  "version": "1.0.0"
 }
