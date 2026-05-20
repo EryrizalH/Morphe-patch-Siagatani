@@ -15,6 +15,12 @@ Klik link berikut untuk menambahkan patches ini ke Morphe:
 
 https://morphe.software/add-source?github=EryrizalH/Morphe-patch-Siagatani
 
+Jika link GitHub belum terbaca karena cache GitHub raw, tambahkan URL JSON ini secara manual sebagai patch source di Morphe Manager:
+
+```
+https://raw.githubusercontent.com/EryrizalH/Morphe-patch-Siagatani/HEAD/patches-bundle.json
+```
+
 Atau tambahkan URL repository ini secara manual sebagai patch source di Morphe Manager:
 
 ```

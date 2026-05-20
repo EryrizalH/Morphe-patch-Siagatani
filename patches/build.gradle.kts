@@ -4,7 +4,7 @@ patches {
     about {
         name = "Siaga Tani Patches"
         description = "Morphe patches for Siaga Tani attendance app"
-        source = "git@github.com:EryrizalH/Morphe-patch-Siagatani.git"
+        source = "https://github.com/EryrizalH/Morphe-patch-Siagatani"
         author = "EryrizalH"
         contact = "https://github.com/EryrizalH"
         website = "https://github.com/EryrizalH/Morphe-patch-Siagatani"
